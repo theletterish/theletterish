@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, World! ✨
 
-<!--
-**TheLetterIsH/TheLetterIsH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Harsh Valaki** aka **TheLetterIsH**.
 
-Here are some ideas to get you started:
+I'm an **engineering undergrad** based in Bangalore, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a game developer, an avid reader and a hobbyist artist.
+
+- 🔭 I'm currently working on [Lucky Loadout](https://github.com/TheLetterIsH/Lucky-Loadout)
+- 🌱 Also, I'm learning the ins and outs of the [Godot](https://godotengine.org/) game engine
+- 💥 I'd love to collaborate on creating anything fun!
+
+## 
