@@ -6,7 +6,7 @@ I'm an **engineering undergrad** based in Bangalore, India.
 
 I'm a game developer, an avid reader and a hobbyist artist.
 
-- 🔭 I'm currently working on [Lucky Loadout](https://github.com/TheLetterIsH/Lucky-Loadout).
+- 🔭 I'm currently working on [Plomp](https://github.com/TheLetterIsH/plomp).
 - 🌱 Also, I'm learning the ins and outs of the [Godot](https://godotengine.org/) game engine.
 - 💥 I'd love to collaborate on creating anything fun!
 
@@ -21,7 +21,6 @@ I'm a game developer, an avid reader and a hobbyist artist.
 
 ### Socials 🌐
 
-[![Personal Website](https://img.shields.io/badge/website-DF4E64?style=for-the-badge&logo=About.me&logoColor=white)](https://theletterish.github.io/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_TheLetterIsH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvalaki/)
 [![YouTube](https://img.shields.io/badge/YouTube-E63042?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheLetterIsH)
