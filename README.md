@@ -6,7 +6,7 @@ I'm an **engineering undergrad** based in Bangalore, India.
 
 I'm a game developer, an avid reader and a hobbyist artist.
 
-- 🔭 I'm currently working on [Plomp](https://github.com/TheLetterIsH/plomp).
+- 🔭 I'm currently working on [Lucky Loadout](https://github.com/TheLetterIsH/lucky-loadout).
 - 🌱 Also, I'm learning the ins and outs of the [Godot](https://godotengine.org/) game engine.
 - 💥 I'd love to collaborate on creating anything fun!
 
