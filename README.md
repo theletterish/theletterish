@@ -1,10 +1,8 @@
-## Hello, World! ✨
+## Hello World! ✨
 
 I'm **Harsh Valaki** aka **TheLetterIsH**.
 
-I'm an **engineering undergrad** based in Bangalore, India.
-
-I'm a game developer, an avid reader and a hobbyist artist.
+I'm a game maker, ~game player~ gamer and an avid reader based in Bangalore, 🇮🇳.
 
 - 🔭 I'm currently working on [PIPLOP](https://github.com/TheLetterIsH/piplop).
 - 🌱 Also, I'm learning the ins and outs of the [Godot](https://godotengine.org/) game engine.
