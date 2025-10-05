@@ -1,11 +1,11 @@
-## Hello World! ✨
+## Hello :D
 
 I'm **Harsh Valaki** aka **TheLetterIsH**.
 
 I'm a game maker, ~game player~ gamer and an avid reader based in Bangalore, 🇮🇳.
 
-- 🔭 I'm currently working on [PIPLOP](https://github.com/TheLetterIsH/piplop).
-- 🌱 Also, I'm learning the ins and outs of the [Godot](https://godotengine.org/) game engine.
+- 🔭 I'm making a tiny roguelite shooter.
+- 🌱 And also learning the ins and outs of the [Godot](https://godotengine.org/) game engine.
 - 💥 I'd love to collaborate on creating anything fun!
 
 ### Tech Stacks ⚙️
@@ -20,6 +20,5 @@ I'm a game maker, ~game player~ gamer and an avid reader based in Bangalore, �
 ### Socials 🌐
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_TheLetterIsH)
+[![Bluesky]( 	https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/theletterish.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvalaki/)
-[![YouTube](https://img.shields.io/badge/YouTube-E63042?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheLetterIsH)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/TheLetterIsH)
